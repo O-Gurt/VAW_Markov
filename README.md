@@ -20,8 +20,8 @@ Given a trajectory of a stationary $\beta$-mixing Markov process $X$, we estimat
 
 ## 📂 Repository Contents
 
-| File | Description | Theorem |
-|------|-------------|---------|
+| File | Description |
+|------|-------------|
 | `AR.ipynb` | Experiments for autoregression  | 
 | `VAR.ipynb` | Experiments for vector autoregression in 2-dimensional case |
 
